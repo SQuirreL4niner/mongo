@@ -1,0 +1,22 @@
+{
+  "name": "week1-challenge",
+  "version": "0.1.0",
+  "description": "First mongodb and node.js project",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "jquery": "^3.1.1",
+    "mongodb": "^2.2.11",
+    "nunjucks": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Maciel",
+  "license": "ISC"
+}

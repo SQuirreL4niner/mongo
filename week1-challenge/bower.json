@@ -1,0 +1,21 @@
+{
+  "name": "week1-challenge",
+  "description": "First mongodb and node.js project",
+  "main": "server.js",
+  "authors": [
+    "Brandon Maciel"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
